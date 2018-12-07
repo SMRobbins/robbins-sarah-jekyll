@@ -1,5 +1,4 @@
-# Build settings
-baseurl: "/portfolio/"
+baseurl: "/robbins-sarah-jekyll"
 
 collections: 
   posts:
