@@ -1,0 +1,6 @@
+# Build settings
+baseurl: "/portfolio/"
+
+collections: 
+  posts:
+    output: true

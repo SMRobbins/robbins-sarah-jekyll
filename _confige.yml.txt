@@ -1,0 +1,5 @@
+baseurl: "/robbins-sarah-jekyll"
+
+collections: 
+  posts:
+    output: true
